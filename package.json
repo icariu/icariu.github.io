@@ -1,7 +1,7 @@
 {
   "name": "alizee-profile",
   "version": "1.0.0",
-  "homepage": "http://alizeesoussan.me",
+  "homepage": "https://alizeesoussan.me",
   "dependencies": {
     "-": "^0.0.1",
     "gh-pages": "^3.2.3",
